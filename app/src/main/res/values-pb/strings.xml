@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ਸਪੀਡ ਮੀਟਰ</string>
+
+    <string name="max_speed">ਅਧਿਕਤਮ ਸਪੀਡ</string>
+    <string name="average_speed">ਔਸਤ ਸਪੀਡ</string>
+    <string name="distance">ਦੂਰੀ</string>
+    <string name="time">ਸਮਾਂ</string>
+    <string name="accuracy">ਸ਼ੁੱਧਤਾ</string>
+    <string name="satellite">ਸੈਟੇਲਾਈਟ</string>
+
+    <string name="waiting_for_fix">ਜੀਪੀਐਸ ਫਿਕਸ ਦੀ ਉਡੀਕ ਕਰ ਰਿਹਾ ਹੈ ...</string>
+    <string name="gps_disabled">ਜੀਪੀਐਸ ਅਸਮਰਥਿਤ</string>
+    <string name="please_enable_gps">ਇਸ ਐਪ ਨੂੰ ਵਰਤਣ ਲਈ ਤੁਹਾਨੂੰ ਸਮਰੱਥ ਹੋਣ ਵਾਲੇ ਜੀਪੀਐਸ ਦੀ ਲੋੜ ਹੈ</string>
+
+</resources>
